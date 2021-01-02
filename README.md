@@ -6,10 +6,10 @@
 Now Playing component is the component that allows you to add your song playing on Spotify.
 
 
-![](/screenshoot.png)
+![](/screenshoot.PNG)
 
 
-
+ 
 ### Usage
 
 You can download and use or change the code it's free to use.  Also you can open PR for new features.
@@ -21,7 +21,7 @@ You should pass the values from Spotify Developer API.
  - Follow the instructions for get refresh token -> https://benwiz.com/blog/create-spotify-refresh-token/
  - Now you can use! :)  <br><br>
 
-   ![](/usage.png)
+   ![](/usage.PNG)
 
 ### Contributors ✨
 
